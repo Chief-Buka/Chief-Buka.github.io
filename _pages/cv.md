@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download my CV as PDF]({{ site.baseurl }}/files/cv.pdf)
+[Download my CV as PDF]({{ site.baseurl }}/files/chiebuka_ohams_CV_2025.pdf)
 
 {% include base_path %}
 
