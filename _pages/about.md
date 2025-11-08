@@ -1,15 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I study the interface between language and cognition in minds and brains
+ 
+I am currently a post-baccalaureate technical associate at MIT working in with [Ev Fedorenko](https://www.evlab.mit.edu/) in the Department of Brain & Cognitive Sciences and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am broadly interested in how we use language as a tool to communicate all kinds of rich and structured mental representations:
+<details>
+<summary>Marr-Computational | What is the structure and content of human language knowledge?</summary>
+<br>
+X
+</details>
+<details>
+<summary>Marr-Algorithmic | What kinds of inference algorithms enable people to reconstuct many kinds of non-linguistic representations starting from lingusitic forms?</summary>
+<br>
+Y
+</details>
+<details>
+<summary>Marr-Implementation | What is the role of the language network in the broader neuro-cognitive landscape?</summary>
+<br>
+  <details>
+  <summary> What does the language network compute? What are it's inputs and outputs?</summary>
+  </details>
+  <details>
+  <summary>How does our neural language system interface and interact with other neuro-cognitive systems?</summary>
+  </details>
+</details>
 
 A data-driven personal website
 ======
