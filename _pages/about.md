@@ -11,27 +11,7 @@ I study the interface between language and cognition in minds and brains
  
 I am currently a post-baccalaureate technical associate at MIT working in with [Ev Fedorenko](https://www.evlab.mit.edu/) in the Department of Brain & Cognitive Sciences and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
 
-I am broadly interested in how we use language as a tool to communicate all kinds of rich and structured mental representations:
-<details>
-<summary>Marr-Computational | What is the structure and content of human language knowledge?</summary>
-<br>
-X
-</details>
-<details>
-<summary>Marr-Algorithmic | What kinds of inference algorithms enable people to reconstuct many kinds of non-linguistic representations starting from lingusitic forms?</summary>
-<br>
-Y
-</details>
-<details>
-<summary>Marr-Implementation | What is the role of the language network in the broader neuro-cognitive landscape?</summary>
-<br>
-  <details>
-  <summary> What does the language network compute? What are it's inputs and outputs?</summary>
-  </details>
-  <details>
-  <summary>How does our neural language system interface and interact with other neuro-cognitive systems?</summary>
-  </details>
-</details>
+
 
 A data-driven personal website
 ======
